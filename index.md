@@ -10,3 +10,7 @@ void main(){
   }
 }
 ```
+- [x] Open discord
+- [x] Enter mulearn server
+- [ ] Complete the task
+- [ ] Lear the tech
